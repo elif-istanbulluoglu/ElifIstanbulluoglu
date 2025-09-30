@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ElifIstanbulluoglu
+- 👋 Hi, I’m @elif-istanbulluoglu
 - 🎓Studying Software Engineering at Çankaya University
+- 🎓I'm currently doing Erasmus in Universidad Fransisco de Vitoria
 - 👀 I’m interested in creating new projects
 - 🌱 I’m currently learning OOP
 - 📫 How to reach me https://www.linkedin.com/in/elif-istanbulluoglu-3527b92a1/
